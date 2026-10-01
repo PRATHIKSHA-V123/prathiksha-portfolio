@@ -1,4 +1,4 @@
-# PRATHIKSHA V - Thiranex Project 2
+# PRATHIKSHA V - PORTFOLIO
 
 ## 📌 Project Title
 
@@ -10,7 +10,7 @@ PRATHIKSHA V
 
 ## 🎯 About the Project
 
-This project is developed as part of Thiranex Project 2.
+This project is developed as part of Portfolio.
 
 The main objective of this project is to demonstrate the use of
 CSS Custom Variables and a Light Mode / Dark Mode theme.
